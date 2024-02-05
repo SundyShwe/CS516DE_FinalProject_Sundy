@@ -1,5 +1,3 @@
-#Cloud Computing Final Project
-
 # Project Architecture
 ![Sundy_Project_Arhcitecture](https://github.com/SundyShwe/CS516DE_FinalProject_Sundy/assets/136497076/64506cf7-1c5a-479d-8792-16cc99a423d9)
 
